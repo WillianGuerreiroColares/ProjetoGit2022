@@ -7,3 +7,6 @@ Passo a passo
 4.	git status
 5.	git commit -m “mensagem”
 6.	Criar repositório online
+7.	git remote add origin https://github.com/WillianGuerreiroColares/ProjetoGit2022.git
+8.	git push -u origin master
+
